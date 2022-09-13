@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.874,C:\Users\solma\OneDrive\Masaüstü\odev\Project1.dproj=C:\Users\solma\OneDrive\Masaüstü\odev\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,C:\Users\solma\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\solma\OneDrive\Masaüstü\odev\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,C:\Users\solma\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\solma\OneDrive\Masaüstü\odev\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,=C:\Users\solma\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,C:\Users\solma\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\solma\OneDrive\Masaüstü\odev\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
