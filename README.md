@@ -2,7 +2,7 @@
 
 # 📚 Delphi Learning
 
-**An app that explains what the core Delphi components do (Delphi temel öğelerini anlatan uygulama)**
+**An app that explains what the core Delphi components do**
 
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 
@@ -23,7 +23,7 @@
 
 ## 📸 Screenshots
 
-##Delphi temel öğelerinin ne işe yaradığını anlatan uygulama.
+## An app explaining what the basic Delphi components are used for.
 
 ![2](https://user-images.githubusercontent.com/40443383/189996339-fecb4ec3-a931-4b0d-a029-384ecc92711d.png)
 
